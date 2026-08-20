@@ -10,8 +10,8 @@
   \- 에코 베네핏(Eco-Benefit): 텀블러 사용 시 자동 할인 적용 및 환경 기여도(에코 스탬프) 확인 가능  
 
 ## 2. 사용 도구
- + 이미지 생성 AI: Chat GPT
- + 후가공 도구: Figma
+ + **이미지 생성 AI:** Chat GPT
+ + **후가공 도구:** Figma
 
 ## 3. 프롬프트 최적화 과정
  + **AI 이미지 생성 전략**  
@@ -245,4 +245,4 @@
 
 ## 5. Figma 프로토타입
 
-+ Figma 프로젝트 URL: [여기를 누르세요.](https://www.figma.com/proto/Zj0eOnZafC1hwnzhs7znhd/Root-Coffee-App-Prototype?node-id=1-7&p=f&t=Z0FezAtFT722uwQW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7)
++ **Figma 프로젝트 URL:** [여기를 누르세요.](https://www.figma.com/proto/Zj0eOnZafC1hwnzhs7znhd/Root-Coffee-App-Prototype?node-id=1-7&p=f&t=Z0FezAtFT722uwQW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7)
