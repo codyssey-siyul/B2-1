@@ -246,3 +246,9 @@
 ## 5. Figma 프로토타입
 
 + **Figma 프로젝트 URL:** [여기를 누르세요.](https://www.figma.com/proto/Zj0eOnZafC1hwnzhs7znhd/Root-Coffee-App-Prototype?node-id=1-7&p=f&t=Z0FezAtFT722uwQW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7)
+
+## 6. 보너스 과제
+ + **코드 변환**
+<img src="Images/HTML.png" width="800">
+<img src="Images/CSS.png" width="800">
+<img src="Images/Bonus_final.png" width="800">
