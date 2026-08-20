@@ -252,3 +252,5 @@
 <img src="Images/HTML.png" width="800">
 <img src="Images/CSS.png" width="800">
 <img src="Images/Bonus_final.png" width="800">
+
+\- 아이콘 이미지 출처: 플래티콘 (Flaticon) [출처 링크](https://www.flaticon.com/kr/free-icon/plant_5775998?term=%EC%8B%9D%EB%AC%BC&page=1&position=5&origin=search&related_id=5775998)
